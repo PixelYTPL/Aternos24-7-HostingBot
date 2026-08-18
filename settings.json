@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "PixelIi09012015Pixel"
+      "password": "PixelIi09012015Pixel",
     },
     "anti-afk": {
       "enabled": true,
