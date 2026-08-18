@@ -62,15 +62,7 @@
     "combat": true,
     "beds": false,
     "chat": true,
-    "console-commands": true
-  },
-  "combat": {
-    "attack-mobs": true,
-    "auto-eat": true
-  },
-  "beds": {
-    "pick-up-day": true,
-    "place-night": true
+    "console-commands": true,
   },
   "discord": {
     "enabled": false,
