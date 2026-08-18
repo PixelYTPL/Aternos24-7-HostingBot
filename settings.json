@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "McPixelCraftPL.aternos.me",
-    "port":  55777,
+    "port": 57777,
     "version": "1.21.11",
     "try-creative": false
   },
@@ -50,11 +50,11 @@
     },
     "look-around": {
       "enabled": true,
-      "interval": 5000,
+      "interval": 5000
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000,
+      "interval": 10000
     }
   },
   "modules": {
@@ -62,7 +62,7 @@
     "combat": true,
     "beds": false,
     "chat": true,
-    "console-commands": true,
+    "console-commands": true
   },
   "discord": {
     "enabled": false,
