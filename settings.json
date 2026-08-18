@@ -39,15 +39,15 @@
     "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 20000,
+    "max-reconnect-delay": 20000
   },
   "movement": {
     "enabled": true,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
-      "speed": 3000,
-},
+      "speed": 3000
+    },
     "look-around": {
       "enabled": true,
       "interval": 5000,
