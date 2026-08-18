@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "PixelIi09012015Pixel",
+      "password": "PixelIi09012015Pixel"
     },
     "anti-afk": {
       "enabled": true,
@@ -33,28 +33,28 @@
       "messages": [
         "Jestem Botem Tego Serwera",
         "Zapraszam na nowe edycje :D",
-        "Subskrybuj @Edgi15i Na YouTube",
+        "Subskrybuj @Edgi15i Na YouTube"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 20000
+    "max-reconnect-delay": 20000,
   },
   "movement": {
     "enabled": true,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
-      "speed": 3000
-    },
+      "speed": 3000,
+},
     "look-around": {
       "enabled": true,
-      "interval": 5000
+      "interval": 5000,
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 10000,
     }
   },
   "modules": {
