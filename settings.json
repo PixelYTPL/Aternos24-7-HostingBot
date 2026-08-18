@@ -4,12 +4,13 @@
     "username": "PixelCraft_NPC",
     "password": "PixelIi09012015Pixel",
     "type": "offline"
+  },
   "server": {
-        "ip": "tubeshoulder.aternos.host",
-        "port": 55777,
-        "version": "1.21.11",
-        "try-creative": false
-    },
+    "ip": "tubeshoulder.aternos.host",
+    "port": 55777,
+    "version": "1.21.11",
+    "try-creative": false
+  },
   "position": {
     "enabled": true,
     "x": 0,
@@ -74,6 +75,8 @@
   },
   "chat": {
     "respond": true,
-    "tpWhitelist": ["PixelYT_PL"]
+    "tpWhitelist": [
+      "PixelYT_PL"
+    ]
   }
 }
