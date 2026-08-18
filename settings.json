@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "McPixelCraftPL.aternos.me",
+    "ip": "brocket.aternos.host:55777",
     "port": 57777,
     "version": "1.21.11",
     "try-creative": false
