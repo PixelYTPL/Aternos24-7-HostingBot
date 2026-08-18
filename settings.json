@@ -2,12 +2,12 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "PixelCraft_NPC",
-    "password": "",
+    "password": "PixelIi09012015Pixel",
     "type": "offline"
   },
   "server": {
     "ip": "McPixelCraftPL.aternos.me",
-    "port":  55777
+    "port":  55777,
     "version": "1.21.11",
     "try-creative": false
   },
